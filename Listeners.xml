@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="com.crm.Listeners.DWSExtentReport"></listener>
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="BatchExecution.TestCcase8"/>
+      <class name="BatchExecution.TestCcase9"/>
+      <class name="BatchExecution.TestCcase3"/>
+      <class name="BatchExecution.TestCcase4"/>
+      <class name="BatchExecution.TestCcase5"/>
+      <class name="BatchExecution.TestCcase6"/>
+      <class name="BatchExecution.TestCcase11"/>
+      <class name="BatchExecution.TestCcase12"/>
+      <class name="BatchExecution.TestCcase1"/>
+      <class name="BatchExecution.TestCcase2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

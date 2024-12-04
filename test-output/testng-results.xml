@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[i am easemytrip]]>
+    </line>
+    <line>
+      <![CDATA[i am makemytrip]]>
+    </line>
+    <line>
+      <![CDATA[i am flipkart]]>
+    </line>
+    <line>
+      <![CDATA[i am Amazon]]>
+    </line>
+    <line>
+      <![CDATA[i am qspiders]]>
+    </line>
+    <line>
+      <![CDATA[i am myntra]]>
+    </line>
+    <line>
+      <![CDATA[i am Adidas]]>
+    </line>
+    <line>
+      <![CDATA[i am Nike]]>
+    </line>
+    <line>
+      <![CDATA[i am honda]]>
+    </line>
+    <line>
+      <![CDATA[i am Kawasaki]]>
+    </line>
+    <line>
+      <![CDATA[i am RoyelEnfield]]>
+    </line>
+    <line>
+      <![CDATA[i am puma]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-28T15:54:07 IST" name="Suite" finished-at="2024-11-28T16:00:39 IST" duration-ms="392061">
+    <groups>
+    </groups>
+    <test started-at="2024-11-28T15:54:07 IST" name="Test" finished-at="2024-11-28T16:00:39 IST" duration-ms="392061">
+      <class name="BatchExecution.TestCcase9">
+        <test-method signature="Makemytrip()[pri:0, instance:BatchExecution.TestCcase9@4c583ecf]" started-at="2024-11-28T15:54:41 IST" name="Makemytrip" finished-at="2024-11-28T15:54:59 IST" duration-ms="18290" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i am makemytrip]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Makemytrip -->
+      </class> <!-- BatchExecution.TestCcase9 -->
+      <class name="BatchExecution.TestCcase12">
+        <test-method signature="nike()[pri:0, instance:BatchExecution.TestCcase12@47eaca72]" started-at="2024-11-28T15:57:21 IST" name="nike" finished-at="2024-11-28T15:57:27 IST" duration-ms="5471" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i am Nike]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- nike -->
+      </class> <!-- BatchExecution.TestCcase12 -->
+      <class name="BatchExecution.TestCcase8">
+        <test-method signature="Easemytrip()[pri:0, instance:BatchExecution.TestCcase8@5c6648b0]" started-at="2024-11-28T15:54:07 IST" name="Easemytrip" finished-at="2024-11-28T15:54:41 IST" duration-ms="33377" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i am easemytrip]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Easemytrip -->
+      </class> <!-- BatchExecution.TestCcase8 -->
+      <class name="BatchExecution.TestCcase5">
+        <test-method signature="Qspiders()[pri:0, instance:BatchExecution.TestCcase5@7b2bbc3]" started-at="2024-11-28T15:55:44 IST" name="Qspiders" finished-at="2024-11-28T15:56:32 IST" duration-ms="47157" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i am qspiders]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Qspiders -->
+      </class> <!-- BatchExecution.TestCcase5 -->
+      <class name="BatchExecution.TestCcase11">
+        <test-method signature="adidas()[pri:0, instance:BatchExecution.TestCcase11@1aafa419]" started-at="2024-11-28T15:56:56 IST" name="adidas" finished-at="2024-11-28T15:57:21 IST" duration-ms="25492" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i am Adidas]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- adidas -->
+      </class> <!-- BatchExecution.TestCcase11 -->
+      <class name="BatchExecution.TestCcase6">
+        <test-method signature="Myntra()[pri:0, instance:BatchExecution.TestCcase6@a1153bc]" started-at="2024-11-28T15:56:32 IST" name="Myntra" finished-at="2024-11-28T15:56:56 IST" duration-ms="24430" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i am myntra]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Myntra -->
+      </class> <!-- BatchExecution.TestCcase6 -->
+      <class name="BatchExecution.TestCcase3">
+        <test-method signature="Flipkart()[pri:0, instance:BatchExecution.TestCcase3@692f203f]" started-at="2024-11-28T15:54:59 IST" name="Flipkart" finished-at="2024-11-28T15:55:16 IST" duration-ms="17199" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i am flipkart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Flipkart -->
+      </class> <!-- BatchExecution.TestCcase3 -->
+      <class name="BatchExecution.TestCcase4">
+        <test-method signature="Amazon()[pri:0, instance:BatchExecution.TestCcase4@48f2bd5b]" started-at="2024-11-28T15:55:16 IST" name="Amazon" finished-at="2024-11-28T15:55:44 IST" duration-ms="28234" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i am Amazon]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Amazon -->
+      </class> <!-- BatchExecution.TestCcase4 -->
+      <class name="BatchExecution.TestCcase1">
+        <test-method signature="honda()[pri:0, instance:BatchExecution.TestCcase1@55141def]" started-at="2024-11-28T15:57:27 IST" name="honda" finished-at="2024-11-28T15:58:45 IST" duration-ms="77612" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i am honda]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- honda -->
+        <test-method signature="kawasaki()[pri:0, instance:BatchExecution.TestCcase1@55141def]" started-at="2024-11-28T15:58:45 IST" name="kawasaki" finished-at="2024-11-28T15:59:23 IST" duration-ms="38038" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i am Kawasaki]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- kawasaki -->
+        <test-method signature="royal()[pri:0, instance:BatchExecution.TestCcase1@55141def]" started-at="2024-11-28T15:59:23 IST" name="royal" finished-at="2024-11-28T16:00:07 IST" duration-ms="43996" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i am RoyelEnfield]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- royal -->
+      </class> <!-- BatchExecution.TestCcase1 -->
+      <class name="BatchExecution.TestCcase2">
+        <test-method signature="puma()[pri:0, instance:BatchExecution.TestCcase2@55182842]" started-at="2024-11-28T16:00:07 IST" name="puma" finished-at="2024-11-28T16:00:39 IST" duration-ms="32025" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[i am puma]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- puma -->
+      </class> <!-- BatchExecution.TestCcase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
